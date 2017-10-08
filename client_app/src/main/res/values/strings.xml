@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MojWcTermin</string>
+    <string name="current_restroom_status">Current restroom status</string>
+    <string name="available">Available</string>
+    <string name="unsubscribe">Unsubscribe</string>
+    <string name="the_restroom_is_available">The restroom is AVAILABLE.</string>
+    <string name="the_restroom_is_unavailable">The restroom is currently UNAVAILABLE.</string>
+    <string name="unavailable">Unavailable</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="unknown">Unknown</string>
+    <string name="launch_application">Launch application</string>
+</resources>

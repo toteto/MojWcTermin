@@ -1,0 +1,1 @@
+include ':iot_app', ':client_app'

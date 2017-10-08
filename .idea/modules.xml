@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MojWcTermin.iml" filepath="$PROJECT_DIR$/MojWcTermin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iot_app/app.iml" filepath="$PROJECT_DIR$/iot_app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client_app/client_app.iml" filepath="$PROJECT_DIR$/client_app/client_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iot_app/iot_app.iml" filepath="$PROJECT_DIR$/iot_app/iot_app.iml" />
+    </modules>
+  </component>
+</project>
